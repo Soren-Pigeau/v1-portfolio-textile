@@ -12,7 +12,7 @@ export default function Footer() {
           Contact par e-mail uniquement.
         </p>
         <a
-          href="mailto:contact@artistetextile.fr?subject=Demande%20d%27information"
+          href="mailto:cyrielle.pigeau@gmail.com"
           className={styles.button}
         >
           Écrire à l'artiste

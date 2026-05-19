@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <a href="#" className={styles.name}>
-        Nom de l'Artiste
+        Cyrielle PIGEAU
       </a>
       <nav className={styles.nav} aria-label="Navigation principale">
         <a href="#oeuvres">Œuvres</a>
